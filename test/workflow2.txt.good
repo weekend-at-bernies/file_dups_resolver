@@ -1,0 +1,8 @@
+cp "locs/loc3/loc3_foo3.txt" "/my/path/loc3_foo3.txt"
+cp "locs/loc2/loc2_foo2.txt" "/my/path/loc2_foo2.txt"
+cp "locs/loc3/loc3_foo1.txt" "/my/path/loc3_foo1.txt"
+cp "locs/loc1/loc2_foo3.txt" "/my/path/loc2_foo3.txt"
+cp "locs/loc2/loc2_foo3.txt" "/my/path/2_loc2_foo3.txt"
+cp "locs/loc2/loc2_foo1.txt" "/my/path/loc2_foo1.txt"
+cp "locs/loc3/loc3_foo2.txt" "/my/path/loc3_foo2.txt"
+cp "locs/loc1/loc1_foo2.txt" "/my/path/loc1_foo2.txt"
